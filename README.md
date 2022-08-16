@@ -3,7 +3,7 @@
 <!---
 - 👀 I’m interested in ...
 --->
-- 🌱 Beta Tester www.McWebPanel.com
+- 🌱 Beta Tester | https://mcwebpanel.com/
 - 📫 Me podéis encontrar por Discord: Bluewolf#6872
 ## :zap: Tecnologías
 
